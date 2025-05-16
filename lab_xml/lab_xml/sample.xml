@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Новости BBC</title>
+        <link>http://www.bbc.co.uk/news</link>
+        <description>Последние новости от BBC</description>
+        <language>en-gb</language>
+        <item>
+            <title>Новый закон о защите данных</title>
+            <link>http://www.bbc.co.uk/news/12345</link>
+            <description>Парламент принял новый закон...</description>
+            <pubDate>Mon, 15 May 2023 12:00:00 GMT</pubDate>
+            <guid isPermaLink="false">12345</guid>
+        </item>
+        <item>
+            <title>Изменения в налоговом кодексе</title>
+            <link>http://www.bbc.co.uk/news/12346</link>
+            <description>Правительство объявило о планах...</description>
+            <pubDate>Mon, 15 May 2023 10:30:00 GMT</pubDate>
+            <guid isPermaLink="false">12346</guid>
+        </item>
+    </channel>
+</rss>
